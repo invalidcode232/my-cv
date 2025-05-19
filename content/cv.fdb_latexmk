@@ -1,16 +1,16 @@
 # Fdb version 4
-["xdvipdfmx"] 1747529491.72359 "cv.xdv" "cv.pdf" "cv" 1747529492.01216 0
-  "cv.xdv" 1747529491.67252 39060 547cea8382b0545d238585f8e472f417 "xelatex"
+["xdvipdfmx"] 1747621997.76371 "cv.xdv" "cv.pdf" "cv" 1747621998.04032 0
+  "cv.xdv" 1747621997.70551 43372 a4c1b2d708ea3c0a1086d3534a5cf29d "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1747529489.90473 "/Users/jamessungarda/Documents/personal/my-cv/examples/cv.tex" "cv.xdv" "cv" 1747529492.01062 0
-  "/Users/jamessungarda/Documents/personal/my-cv/examples/cv.tex" 1747529489.70577 2510 cfcecfb5ccb6fe1225fc438a19d40d0b ""
+["xelatex"] 1747621995.78665 "/Users/jamessungarda/Documents/personal/my-cv/content/cv.tex" "cv.xdv" "cv" 1747621998.03892 0
+  "/Users/jamessungarda/Documents/personal/my-cv/content/cv.tex" 1747621995.56867 2510 cfcecfb5ccb6fe1225fc438a19d40d0b ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1710106625 1528 f853c4d1b4e0550255e02831fdc8496f ""
-  "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1710106625 1528 abec98dbc43e172678c11b3b9031252a ""
-  "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm" 1710106625 1508 3b32edd0d68f6498a5a375e78f9edc5e ""
-  "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm" 1710106625 1528 e2423ae06dc7dee599cceb79d1c9dc32 ""
+  "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/lmmi10.tfm" 1710106625 1528 6d36b2385e0ca062a654de6ac59cb34f ""
+  "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/lmmi5.tfm" 1710106625 1508 198f5b7b99b5769126de3a533f6fc334 ""
+  "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/public/lm/lmmi8.tfm" 1710106625 1520 a3fe5596932db2db2cbda300920dd4e9 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1710106625 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1710106625 40635 c40361e206be584d448876bba8a64a3b ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/generic/bitset/bitset.sty" 1710106625 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -135,6 +135,8 @@
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/l3kernel/expl3.sty" 1710106625 6565 10e89ed128ccd59431746bbdd82129fc ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1710106625 4674 4240ebde863d19dc4d13bb280b78abb2 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1710106625 9327 11bedad2ac38f92e405a38ed18489a03 ""
+  "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/lmodern.sty" 1710106625 1608 b00724785a9e9c599e5181bb8729160b ""
+  "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/lm/omllmm.fd" 1710106625 890 57f5adccd504fb5c98bdf99ed7e7f195 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/parskip/parskip.sty" 1710106625 4288 94714aa7f535440f33181fec52a31963 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty" 1710106625 1090 bae35ef70b3168089ef166db3e66f5b2 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty" 1710106625 373 00b204b1d7d095b892ad31a7494b0373 ""
@@ -171,12 +173,12 @@
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1710106625 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-var/web2c/xetex/xelatex.fmt" 1710106625 10850488 395214b4fce90ba11c47b928ee957713 ""
-  "awesome-cv.cls" 1747527984.33879 29963 ca03ef6f24d6221c04250aed4abf9977 ""
-  "cv.aux" 1747529491.672 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
-  "cv.tex" 1747529489.70577 2510 cfcecfb5ccb6fe1225fc438a19d40d0b ""
-  "cv/education.tex" 1747528958.87849 1091 b53723e090de261bed06879e5a174ebe ""
-  "cv/extracurricular.tex" 1747529188.8594 1579 47bca427bdef084693e84bf7390ffe43 ""
-  "cv/honors.tex" 1747528513.23708 1944 842d650158c017a37b12a0878478d2dd ""
+  "awesome-cv.cls" 1747621911.60915 30003 11e2912d48b7f86e84b5dfbae3d2fd58 ""
+  "cv.aux" 1747621997.70486 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
+  "cv.tex" 1747621995.56867 2510 cfcecfb5ccb6fe1225fc438a19d40d0b ""
+  "cv/education.tex" 1747620672.99211 1093 90796a0e7879b76700c06914c582f683 ""
+  "cv/extracurricular.tex" 1747621265.12185 1684 1eed5e2cd735e0da4fc3910323583f26 ""
+  "cv/honors.tex" 1747621667.5538 1951 5b628a3a5de9485fc8090e2068d01ba2 ""
   "cv/projects.tex" 1747529100.8156 1616 3c95414ad62639b1d1713fd36da8d91c ""
   "cv/skills.tex" 1747527296.48052 690 21b4d694d70bc7df6f2501f407250ac6 ""
   (generated)
