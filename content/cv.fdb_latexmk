@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1747621997.76371 "cv.xdv" "cv.pdf" "cv" 1747621998.04032 0
-  "cv.xdv" 1747621997.70551 43372 a4c1b2d708ea3c0a1086d3534a5cf29d "xelatex"
+["xdvipdfmx"] 1747622461.94503 "cv.xdv" "cv.pdf" "cv" 1747622462.20291 0
+  "cv.xdv" 1747622461.88983 43384 e51679f1a67e6cd321cc5c507bee6fce "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1747621995.78665 "/Users/jamessungarda/Documents/personal/my-cv/content/cv.tex" "cv.xdv" "cv" 1747621998.03892 0
+["xelatex"] 1747622460.0841 "/Users/jamessungarda/Documents/personal/my-cv/content/cv.tex" "cv.xdv" "cv" 1747622462.20148 0
   "/Users/jamessungarda/Documents/personal/my-cv/content/cv.tex" 1747621995.56867 2510 cfcecfb5ccb6fe1225fc438a19d40d0b ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1710106625 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -173,12 +173,12 @@
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1710106625 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/web2c/texmf.cnf" 1710106625 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-var/web2c/xetex/xelatex.fmt" 1710106625 10850488 395214b4fce90ba11c47b928ee957713 ""
-  "awesome-cv.cls" 1747621911.60915 30003 11e2912d48b7f86e84b5dfbae3d2fd58 ""
-  "cv.aux" 1747621997.70486 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
+  "awesome-cv.cls" 1747622128.35518 30003 11e2912d48b7f86e84b5dfbae3d2fd58 ""
+  "cv.aux" 1747622461.88927 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
   "cv.tex" 1747621995.56867 2510 cfcecfb5ccb6fe1225fc438a19d40d0b ""
-  "cv/education.tex" 1747620672.99211 1093 90796a0e7879b76700c06914c582f683 ""
-  "cv/extracurricular.tex" 1747621265.12185 1684 1eed5e2cd735e0da4fc3910323583f26 ""
-  "cv/honors.tex" 1747621667.5538 1951 5b628a3a5de9485fc8090e2068d01ba2 ""
+  "cv/education.tex" 1747622128.35745 1093 90796a0e7879b76700c06914c582f683 ""
+  "cv/extracurricular.tex" 1747622128.3577 1684 1eed5e2cd735e0da4fc3910323583f26 ""
+  "cv/honors.tex" 1747622459.87987 1952 86c24c6bb9b1fb45fa3b030819fc4735 ""
   "cv/projects.tex" 1747529100.8156 1616 3c95414ad62639b1d1713fd36da8d91c ""
   "cv/skills.tex" 1747527296.48052 690 21b4d694d70bc7df6f2501f407250ac6 ""
   (generated)
