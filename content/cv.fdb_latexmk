@@ -1,11 +1,11 @@
 # Fdb version 4
-["xdvipdfmx"] 1753774090.21432 "cv.xdv" "cv.pdf" "cv" 1753774090.50139 0
-  "cv.xdv" 1753774090.16644 43420 232934ddc5027f21d71036b0a1dff666 "xelatex"
+["xdvipdfmx"] 1753775067.73133 "cv.xdv" "cv.pdf" "cv" 1753775068.09029 0
+  "cv.xdv" 1753775067.68153 44352 1c15582ab28546156ddb7acfcc3e4048 "xelatex"
   (generated)
   "cv.pdf"
   (rewritten before read)
-["xelatex"] 1753774088.37456 "/Users/jamessungarda/dev/my-cv/content/cv.tex" "cv.xdv" "cv" 1753774090.49973 0
-  "/Users/jamessungarda/dev/my-cv/content/cv.tex" 1753774088.17786 2509 56a69f0971c5450c6a5266f3ddfcb4df ""
+["xelatex"] 1753775065.94773 "/Users/jamessungarda/dev/my-cv/content/cv.tex" "cv.xdv" "cv" 1753775068.08879 0
+  "/Users/jamessungarda/dev/my-cv/content/cv.tex" 1753775065.77018 2508 176958c1b558697a7d276e102681a581 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/lm/lmmi10.tfm" 1148093231 1528 6d36b2385e0ca062a654de6ac59cb34f ""
@@ -173,12 +173,13 @@
   "/usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf" 1739380943 42148 61becc7c670cd061bb319c643c27fdd4 ""
   "/usr/local/texlive/2025/texmf-var/web2c/xetex/xelatex.fmt" 1753770787 5639813 5ea8dd9e2e6bcc1a3dc3212fb479adc3 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "awesome-cv.cls" 1753774077.5873 30002 38ca12802e6a57e50db13a8e560d045d ""
-  "cv.aux" 1753774090.1659 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
-  "cv.tex" 1753774088.17786 2509 56a69f0971c5450c6a5266f3ddfcb4df ""
-  "cv/education.tex" 1753774042.57604 1094 c9065aa97c97c86ff431b447e9368c45 ""
-  "cv/extracurricular.tex" 1753774042.57623 1725 fb2543179833305a6209b116e02f398d ""
-  "cv/honors.tex" 1753774042.57631 2038 79047b20d819b3c3a471e9e35512027e ""
+  "awesome-cv.cls" 1753774215.69741 30002 d7c6113d131cb0c21ffe8449ff529462 ""
+  "cv.aux" 1753775067.68103 72 49953267bd44a605718cb5e0eb508bfe "xelatex"
+  "cv.tex" 1753775065.77018 2508 176958c1b558697a7d276e102681a581 ""
+  "cv/education.tex" 1753774527.05138 1096 de602ccb871833c7b403bfab70fd5ec0 ""
+  "cv/experience.tex" 1753774561.98393 2091 26fdc8343e3e759c1be082a264d01b46 ""
+  "cv/extracurricular.tex" 1753775042.18763 1582 a249c2ef480c03d79870ed44c279edd3 ""
+  "cv/honors.tex" 1753774941.27514 3143 44de4c32e94b01f13c19be3f7f183a38 ""
   "cv/projects.tex" 1753774042.57646 1650 594c41bde7f31b6c101d025f681c221d ""
   "cv/skills.tex" 1753774042.57653 693 c44cb315b69327735d78b8fcb41b8fa7 ""
   (generated)
